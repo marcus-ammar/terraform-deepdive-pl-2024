@@ -1,4 +1,4 @@
-u# Deep-Dive-Terraform
+# Deep-Dive-Terraform
 
 Welcome to Terraform - Deep Dive version 3.  These exercise files are meant to accompany my course on [Pluralsight](https://app.pluralsight.com/library/courses/terraform-deep-dive-2023).  The course was developed using version 1.5.x of Terraform.
 
